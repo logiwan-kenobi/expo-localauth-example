@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "toucid-demo",
+    "slug": "touchid-demo",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#009688"
+    }
+  }
+}
